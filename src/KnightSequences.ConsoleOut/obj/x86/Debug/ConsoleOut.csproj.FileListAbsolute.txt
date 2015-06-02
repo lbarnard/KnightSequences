@@ -1,0 +1,16 @@
+C:\_projects\KnightSequences\ConsoleOut\bin\Debug\ConsoleOut.exe
+C:\_projects\KnightSequences\ConsoleOut\bin\Debug\ConsoleOut.pdb
+C:\_projects\KnightSequences\ConsoleOut\obj\x86\Debug\ConsoleOut.exe
+C:\_projects\KnightSequences\ConsoleOut\obj\x86\Debug\ConsoleOut.pdb
+C:\_projects\KnightSequences\ConsoleOut\bin\Debug\ConsoleOut.exe.config
+C:\_projects\KnightSequences\ConsoleOut\bin\Debug\KnightSequences.Library.dll
+C:\_projects\KnightSequences\ConsoleOut\bin\Debug\KnightSequences.Library.pdb
+C:\_projects\KnightSequences\ConsoleOut\obj\x86\Debug\ConsoleOut.csprojResolveAssemblyReference.cache
+E:\KnightSequences\ConsoleOut\bin\Debug\ConsoleOut.exe.config
+E:\KnightSequences\ConsoleOut\obj\x86\Debug\ConsoleOut.exe
+E:\KnightSequences\ConsoleOut\obj\x86\Debug\ConsoleOut.pdb
+E:\KnightSequences\ConsoleOut\bin\Debug\ConsoleOut.exe
+E:\KnightSequences\ConsoleOut\bin\Debug\ConsoleOut.pdb
+E:\KnightSequences\ConsoleOut\bin\Debug\KnightSequences.Library.dll
+E:\KnightSequences\ConsoleOut\bin\Debug\KnightSequences.Library.pdb
+E:\KnightSequences\ConsoleOut\obj\x86\Debug\ConsoleOut.csprojResolveAssemblyReference.cache

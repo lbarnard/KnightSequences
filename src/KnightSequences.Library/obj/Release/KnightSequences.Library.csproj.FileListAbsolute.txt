@@ -1,0 +1,12 @@
+E:\KnightSequences\src\KnightSequences.Library\bin\Release\KnightSequences.Library.dll
+E:\KnightSequences\src\KnightSequences.Library\bin\Release\KnightSequences.Library.pdb
+E:\KnightSequences\src\KnightSequences.Library\obj\Release\KnightSequences.Library.dll
+E:\KnightSequences\src\KnightSequences.Library\obj\Release\KnightSequences.Library.pdb
+C:\_projects\KnightSequences\src\KnightSequences.Library\bin\Release\KnightSequences.Library.dll
+C:\_projects\KnightSequences\src\KnightSequences.Library\bin\Release\KnightSequences.Library.pdb
+C:\_projects\KnightSequences\src\KnightSequences.Library\obj\Release\KnightSequences.Library.dll
+C:\_projects\KnightSequences\src\KnightSequences.Library\obj\Release\KnightSequences.Library.pdb
+C:\_projects\KS_Test\KnightSequences\src\KnightSequences.Library\bin\Release\KnightSequences.Library.dll
+C:\_projects\KS_Test\KnightSequences\src\KnightSequences.Library\bin\Release\KnightSequences.Library.pdb
+C:\_projects\KS_Test\KnightSequences\src\KnightSequences.Library\obj\Release\KnightSequences.Library.dll
+C:\_projects\KS_Test\KnightSequences\src\KnightSequences.Library\obj\Release\KnightSequences.Library.pdb

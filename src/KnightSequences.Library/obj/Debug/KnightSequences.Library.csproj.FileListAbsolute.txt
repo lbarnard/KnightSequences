@@ -1,0 +1,16 @@
+C:\_projects\KnightSequences\KnightSequences.Library\bin\Debug\KnightSequences.Library.dll
+C:\_projects\KnightSequences\KnightSequences.Library\bin\Debug\KnightSequences.Library.pdb
+C:\_projects\KnightSequences\KnightSequences.Library\obj\Debug\KnightSequences.Library.dll
+C:\_projects\KnightSequences\KnightSequences.Library\obj\Debug\KnightSequences.Library.pdb
+E:\KnightSequences\KnightSequences.Library\bin\Debug\KnightSequences.Library.dll
+E:\KnightSequences\KnightSequences.Library\bin\Debug\KnightSequences.Library.pdb
+E:\KnightSequences\KnightSequences.Library\obj\Debug\KnightSequences.Library.dll
+E:\KnightSequences\KnightSequences.Library\obj\Debug\KnightSequences.Library.pdb
+E:\KnightSequences\src\KnightSequences.Library\bin\Debug\KnightSequences.Library.dll
+E:\KnightSequences\src\KnightSequences.Library\bin\Debug\KnightSequences.Library.pdb
+E:\KnightSequences\src\KnightSequences.Library\obj\Debug\KnightSequences.Library.dll
+E:\KnightSequences\src\KnightSequences.Library\obj\Debug\KnightSequences.Library.pdb
+C:\_projects\KnightSequences\src\KnightSequences.Library\bin\Debug\KnightSequences.Library.dll
+C:\_projects\KnightSequences\src\KnightSequences.Library\bin\Debug\KnightSequences.Library.pdb
+C:\_projects\KnightSequences\src\KnightSequences.Library\obj\Debug\KnightSequences.Library.dll
+C:\_projects\KnightSequences\src\KnightSequences.Library\obj\Debug\KnightSequences.Library.pdb

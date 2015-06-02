@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="5DDD1E95-FD51-48F3-89BA-649438365B7F" ModuleId="KnighSeqences.Fixtures" />
+  <Module PersistentId="E7D86C65-F9D2-413D-B921-8DED43D34B36" ModuleId="KnightSequences.Library" />
+  <Module PersistentId="40F8ECF3-94FB-42F8-9099-AD689693A440" ModuleId="ConsoleOut" />
+</Modules>

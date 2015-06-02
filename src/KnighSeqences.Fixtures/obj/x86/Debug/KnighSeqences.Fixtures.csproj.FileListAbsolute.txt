@@ -1,0 +1,11 @@
+E:\KnightSequences\KnighSeqences.Fixtures\obj\x86\Debug\KnighSeqences.Fixtures.csprojResolveAssemblyReference.cache
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\KnighSeqences.Fixtures.dll.config
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\KnighSeqences.Fixtures.dll
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\KnighSeqences.Fixtures.pdb
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\KnightSequences.Library.dll
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\nunit.framework.dll
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\nunit.mocks.dll
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\KnightSequences.Library.pdb
+E:\KnightSequences\KnighSeqences.Fixtures\bin\Debug\nunit.framework.xml
+E:\KnightSequences\KnighSeqences.Fixtures\obj\x86\Debug\KnighSeqences.Fixtures.dll
+E:\KnightSequences\KnighSeqences.Fixtures\obj\x86\Debug\KnighSeqences.Fixtures.pdb
