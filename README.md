@@ -18,8 +18,11 @@ List<string[]> when constructing it, to give other developers/reviewers almost a
 representation of the keypad;
 
 new[] {"A", "B", "C", "D", "E"},
+
 new[] {"F", "G", "H", "I", "J"},
+
 new[] {"K", "L", "M", "N", "O"},
+
 new[] {null, "1", "2", "3", null}
 
 I also chose to stick with a standard sized grid (rather than a jagged one) using nulls where appropriate
