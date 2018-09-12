@@ -34,7 +34,9 @@ I used tests to drive out a VERY simple version of the grid, so mocked out the k
 scenarios;
 
 1 - Single Key = 0 Paths
+
 2 - Two Keys, both not vowels = 1 Path
+
 3 - Two Keys, one vowel = 0 Paths
 
 Which satisfied me that my recursion and vowel checking was correct.
@@ -68,7 +70,9 @@ irked me that the 32-key sequence would have originally taken a few days (maybe 
 As it stands, on this PC (i7-2600S 2.80Ghz with 4Gb of RAM) the average times are as follows:
 
 10-key sequence = 0.084 seconds
+
 16-key sequence = 9 seconds 
+
 32-key sequence = ...not run to completion yet.
 
 The final performance gain took the 16-key sequence from 29 seconds down to approx. 9 seconds, but I thought I'd leave it there...the final part was looking at using PLINQ for the individual tree leaf searches, but that appears to 
